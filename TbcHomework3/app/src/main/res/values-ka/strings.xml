@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TbcHomework3</string>
+    <string name="one_to_thousand">ჩაწერეთ მთელი რიცხვი 1..1000</string>
+    <string name="apply">მიღება</string>
+    <string name="input_error_message">გთხოვთ შეიყვანოთ რიცხვი 1..1000</string>
+</resources>
