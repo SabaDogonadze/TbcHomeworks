@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TbcHomework5</string>
+    <string name="full_name">FullName</string>
+    <string name="email">Email</string>
+    <string name="add_user">Add User</string>
+    <string name="enter_email">Enter Email For Search</string>
+    <string name="get_user_info">Get User Info</string>
+    <string name="user_s_fullname_is">User\'s FullName Is</string>
+    <string name="input_value_is_empty">Input Field Is Empty</string>
+    <string name="check_input_fields">Some Errors Happend. Check Input Fields</string>
+    <string name="user_already_exists">User Already Exists</string>
+    <string name="user_not_found">User Not Found</string>
+    <string name="username_field_is_empty">UserName Field Is Empty</string>
+    <string name="email_field_is_empty">Email Field Is Empty</string>
+    <string name="email_input_is_wrong">Email Input Is Wrong</string>
+</resources>
