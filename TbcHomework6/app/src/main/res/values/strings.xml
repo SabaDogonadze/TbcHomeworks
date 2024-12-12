@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TbcHomework6</string>
+    <string name="mountain_title">Andes Mountain</string>
+    <string name="price">Price</string>
+    <string name="location">South, America</string>
+    <string name="dollar_sign">$</string>
+    <string name="tour_price">230</string>
+    <string name="overview">Overview</string>
+    <string name="details">Details</string>
+    <string name="time">8 Hours</string>
+    <string name="temperature">" 16 C"</string>
+    <string name="rating">4.5</string>
+    <string name="description">"ძალიან მაგარი მთაა , ძალიან მაგარი მთაა , ძალიან მაგარი მთაა ,ძალიან მაგარი მთაა , ძალიან მაგარი მთაა ,ძალიან მაგარი მთაა ,ძალიან მაგარი მთაა ,ძალიან მაგარი მთაა ,ძალიან მაგარი მთაა ,ძალიან მაგარი მთაა ,ძალიან მაგარი მთაა ,  "</string>
+    <string name="book_now">Book Now</string>
+</resources>
